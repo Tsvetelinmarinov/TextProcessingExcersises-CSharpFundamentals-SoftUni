@@ -1,18 +1,30 @@
 ﻿///<summary>
-///  Draft
+///  Author attribute
 /// </summary>
 
-namespace Draft
+using System;
+
+namespace Reflect
 {
     /// <summary>
-    ///  Specifies the autor of the code below
+    ///   Specifies the autor of the code below
     /// </summary>
     [AttributeUsage(AttributeTargets.All)]
-    public class AuthorAttribute(string? inputName) : Attribute
+    public class AuthorAttribute(string name) : Attribute 
     {
-#pragma warning disable IDE0044
-        //Holds the name of the author
-        private string? name = inputName;
-#pragma warning restore IDE0044 
+        //holds the name of the authos local
+        private static string? _name;
+
+        /// <summary>
+        ///  Set the name of the author
+        /// </summary>
+        public string? Name
+        {
+            set
+            {
+                ArgumentNullException.ThrowIfNullOrWhiteSpace(name);
+                _name = name;
+            }
+        }       
     }
 }

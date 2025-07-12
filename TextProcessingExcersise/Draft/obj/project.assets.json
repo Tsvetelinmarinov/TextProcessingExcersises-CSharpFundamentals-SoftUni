@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cvete\\OneDrive\\Documents\\SoftUni\\CSharpFundamentals\\StringProcessing\\Solution2\\TextProcessingExcersise\\Draft\\Draft.csproj",
-      "projectName": "Draft",
-      "projectPath": "C:\\Users\\Cvete\\OneDrive\\Documents\\SoftUni\\CSharpFundamentals\\StringProcessing\\Solution2\\TextProcessingExcersise\\Draft\\Draft.csproj",
+      "projectUniqueName": "C:\\Users\\Cvete\\OneDrive\\Documents\\SoftUni\\CSharpFundamentals\\StringProcessing\\Solution2\\TextProcessingExcersise\\Draft\\Reflect.csproj",
+      "projectName": "Reflect",
+      "projectPath": "C:\\Users\\Cvete\\OneDrive\\Documents\\SoftUni\\CSharpFundamentals\\StringProcessing\\Solution2\\TextProcessingExcersise\\Draft\\Reflect.csproj",
       "packagesPath": "C:\\Users\\Cvete\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Cvete\\OneDrive\\Documents\\SoftUni\\CSharpFundamentals\\StringProcessing\\Solution2\\TextProcessingExcersise\\Draft\\obj\\",
       "projectStyle": "PackageReference",

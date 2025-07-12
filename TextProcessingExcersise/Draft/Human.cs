@@ -2,12 +2,13 @@
 /// Draft
 /// </summary>
 
-namespace Draft
-{
+using System;
+
+namespace Reflect 
+{ 
     /// <summary>
     ///  Defines methods and properties to descibe a human
     /// </summary>
-    [Author("Tsvetelin Marinov")]
     public class Human
     {
         //Holds the name

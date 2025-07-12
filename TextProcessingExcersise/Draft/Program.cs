@@ -1,10 +1,12 @@
 ﻿/// <summary>
-///  Draft
+///   Reflection
 /// </summary>
 
+using System;
 using System.Reflection;
+using System.Timers;
 
-namespace Draft;
+namespace Reflect;
 
 class Program
 {
@@ -73,5 +75,20 @@ class Program
                 $"Private member : {method.IsPrivate}\n\n"
             )
         );
+
+        Test();
+    }
+
+    static void Test()
+    {
+        double weigth = 65.67;
+        int weigthAsInt = (int)Convert.ChangeType(weigth, typeof(int));
+        Console.WriteLine(weigthAsInt);
+
+        Timer timer = new();
+        timer.Start();
+        Console.WriteLine(Object.Equals(weigth, weigthAsInt));
+        timer.Stop();
+        Console.WriteLine(timer.Interval);
     }
 }

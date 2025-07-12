@@ -1,0 +1,15 @@
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\bin\Debug\net8.0\Reflect.exe
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\bin\Debug\net8.0\Reflect.deps.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\bin\Debug\net8.0\Reflect.runtimeconfig.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\bin\Debug\net8.0\Reflect.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\bin\Debug\net8.0\Reflect.pdb
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\obj\Debug\net8.0\Reflect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\obj\Debug\net8.0\Reflect.AssemblyInfoInputs.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\obj\Debug\net8.0\Reflect.AssemblyInfo.cs
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\obj\Debug\net8.0\Reflect.csproj.CoreCompileInputs.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\obj\Debug\net8.0\Reflect.sourcelink.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\obj\Debug\net8.0\Reflect.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\obj\Debug\net8.0\refint\Reflect.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\obj\Debug\net8.0\Reflect.pdb
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\obj\Debug\net8.0\Reflect.genruntimeconfig.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution2\TextProcessingExcersise\Draft\obj\Debug\net8.0\ref\Reflect.dll
