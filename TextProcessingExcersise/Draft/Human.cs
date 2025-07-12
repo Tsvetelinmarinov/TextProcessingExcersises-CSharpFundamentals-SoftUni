@@ -1,16 +1,13 @@
-﻿
-using System.Runtime.InteropServices;
-using System.Security.Cryptography.X509Certificates;
-
-///<summary>
+﻿///<summary>
 /// Draft
 /// </summary>
+
 namespace Draft
 {
-    [Author("Tsvetelin Marinov")]
     /// <summary>
     ///  Defines methods and properties to descibe a human
     /// </summary>
+    [Author("Tsvetelin Marinov")]
     public class Human
     {
         //Holds the name
