@@ -79,7 +79,7 @@ class Program
         Test();
     }
 
-    static void Test()
+    private static void Test()
     {
         double weigth = 65.67;
         int weigthAsInt = (int)Convert.ChangeType(weigth, typeof(int));
