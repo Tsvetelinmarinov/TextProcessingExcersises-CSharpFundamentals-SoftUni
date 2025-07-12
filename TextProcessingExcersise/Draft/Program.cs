@@ -4,7 +4,6 @@
 
 using System;
 using System.Reflection;
-using System.Timers;
 
 namespace Reflect;
 
@@ -75,20 +74,5 @@ class Program
                 $"Private member : {method.IsPrivate}\n\n"
             )
         );
-
-        Test();
-    }
-
-    private static void Test()
-    {
-        double weigth = 65.67;
-        int weigthAsInt = (int)Convert.ChangeType(weigth, typeof(int));
-        Console.WriteLine(weigthAsInt);
-
-        Timer timer = new();
-        timer.Start();
-        Console.WriteLine(Object.Equals(weigth, weigthAsInt));
-        timer.Stop();
-        Console.WriteLine(timer.Interval);
     }
 }

@@ -9,10 +9,10 @@ namespace Reflect
     /// <summary>
     ///   Specifies the autor of the code below
     /// </summary>
-    [AttributeUsage(AttributeTargets.All)]
+    [AttributeUsage(AttributeTargets.All, AllowMultiple = true)]
     public class AuthorAttribute(string name) : Attribute 
     {
-        //holds the name of the authos local
+        //holds the name of the author local
         private static string? _name;
 
         /// <summary>
